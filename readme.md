@@ -2,9 +2,7 @@ ACC Assignment S2 2023
 
 Project
 
-Simple Function Call
-The objective of this network programming assignment is to develop two complementary programs,
-a client and a server, which implement a simple application program, called Simple Function Call (SFC).
+The purpose of the program is to facilitate communication between a server and multiple clients using two parallel TCP connections (request-line and reply-line), allowing clients to request and execute server functions while logging each request and response in a .txt file 
 
 To compile
 
