@@ -17,7 +17,7 @@ type `make clean` in the terminal
 Run the program
 
 type `make` in the terminal, to compile both `client` and `server` programs
-type `./server` in termainal and open another terminal and type `./client 127.0.0.1 50150 `
+type `./server` in terminal and open another terminal and type `./client 127.0.0.1 50150 `
 
 After, sucessful connection you can then use these commands
 
