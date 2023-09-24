@@ -1,0 +1,8 @@
+Available commands:
+
+ADD(x,y) - Add two numbers.
+MUL(x,y) - Multiply two numbers.
+DIV(x,y) - Divide two numbers.
+MOD(x,y) - Calculate the modulo of two numbers.
+INFO     - Get a list of available commands.
+QUIT     - Quit the program and close the connection.
